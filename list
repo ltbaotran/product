@@ -5,7 +5,7 @@
   "name":"IP 14",
   "price":22000000,
   "img": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-vang-thumb-600x600.jpg"
-  "des":"iphone 14 chạy nhanh, mượt"
+  "des":"Đẹp mắt và tinh tế ở mọi góc nhìn, trang bị khung nhôm, mặt sau và trước bằng kính cường lực nhờ đó giúp tăng tính thẩm mỹ và độ bền cho thiết bị cao hơn"
 },
 {
   "id": "2",
@@ -13,7 +13,7 @@
   "name":"IP 3",
   "price":13000000,
   "img":"https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/250257/iphone-13-red-1-600x600.jpg",
-  "des":"iphone 13 chạy nhanh"
+  "des":"Đẹp mắt và tinh tế ở mọi góc nhìn, trang bị khung nhôm, mặt sau và trước bằng kính cường lực nhờ đó giúp tăng tính thẩm mỹ và độ bền cho thiết bị cao hơn"
 },
 {
   "id": "3",
@@ -21,7 +21,7 @@
   "name":"Galaxy S22",
   "price":14000000,
   "img":"https://cdn.tgdd.vn/Products/Images/42/271697/Galaxy-S22-Ultra-Green-600x600.jpg",
-  "des":"Đầy đủ các tính năng"
+  "des":"với cấu hình mạnh mẽ như vậy thì đây là một chiếc điện thoại chơi game giúp người dùng hoàn toàn có thể tự tin chơi tốt mọi tựa game với mức cấu hình tối đa"
 },
 {
   "id": "4",
@@ -29,6 +29,6 @@
   "name":"Galaxy S23",
   "price":25000000,
   "img":"https://cdn.tgdd.vn/Products/Images/42/301797/samsung-galaxy-s23-ultra-hong-600x600.jpg",
-  "des":"Đầy đủ các tính năng"
+  "des":"Với cấu hình mạnh mẽ như vậy thì đây là một chiếc điện thoại chơi game giúp người dùng hoàn toàn có thể tự tin chơi tốt mọi tựa game với mức cấu hình tối đa"
 }
 ]
